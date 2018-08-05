@@ -1,1 +1,1 @@
-{"name":"Dibble","short_name":"dibble","lang":"en-US","start_url":"https://budda.github.io/dibble/","scope":"dibble","display":"fullscreen","orientation":"portrait","theme_color":"#1E70A2"  }
+{"name":"Dibble","short_name":"dibble","lang":"en-US","start_url":"https://budda.github.io/dibble/","scope":"dibble","display":"fullscreen","orientation":"portrait","theme_color":"#1E70A2","icons":[{"src":"assets/icons-192.png","type":"image/png","sizes":"192x192"},{"src":"assets/icons-512.png","type":"image/png","sizes":"512x512"}]  }
